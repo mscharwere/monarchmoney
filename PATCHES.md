@@ -1,5 +1,13 @@
 # PATCHES — mscharwere/monarchmoney fork
 
+> **DEPRECATED — 2026-04-28:** This fork has been superseded by
+> `bradleyseanf/monarchmoneycommunity` (60 stars, active maintainer, weekly updates).
+> `C:/repos/monarch-mcp` now pins to `bradleyseanf/monarchmoneycommunity@v1.3.2`.
+> This repo is **retained as a snapshot/fallback only** — do not delete, but do not
+> actively maintain or pin new projects to it.
+
+
+
 This fork diverges from `hammem/monarchmoney` (upstream, last release v0.1.15, Jan 2025).
 The upstream maintainer has been unresponsive since Nov 2025. These patches fix critical
 API breakage and port improvements from `bradleyseanf/monarchmoneycommunity`.
